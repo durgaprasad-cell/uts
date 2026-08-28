@@ -31,3 +31,14 @@ python -m http.server 8000
 The site has no build step or runtime dependencies, so it can be published directly from a GitHub repository.
 
 After starting the local server, open `http://localhost:8000` in a browser.
+
+## Publish with GitHub Pages
+
+1. Open the repository **Settings** page.
+2. Select **Pages** under **Code and automation**.
+3. Choose **Deploy from a branch**, select `main` and the `/ (root)` folder, then save.
+4. Wait for the Pages workflow to finish.
+
+The published site is available at:
+
+`https://durgaprasad-cell.github.io/uts/`
