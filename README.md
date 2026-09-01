@@ -1,5 +1,7 @@
 # UTSP startup site
 
+https://durgaprasad-cell.github.io/uts/
+
 Static GitHub Pages site for the Urban Transportation Synchronization Platform.
 
 UTSP is a commuter-powered mobility intelligence concept. It turns reports about
